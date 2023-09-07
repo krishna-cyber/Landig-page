@@ -23,10 +23,10 @@ No particular process is required to install.
 `SIMPLE CLONE AND USE IT.`
 RUN `index.html` to get an output.
 
-## Creduts
+## Credits
 
-1. Traversary media
-2. Tailwind css Documentation
+1. [Traversy media](https://www.youtube.com/@TraversyMedia)
+2. [Tailwind css Documentation](https://tailwindcss.com/docs/installation)
 
 ## License
 
