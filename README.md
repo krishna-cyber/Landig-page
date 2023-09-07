@@ -6,7 +6,7 @@ This is a simple landing page using tailwind css. Simple project with responsive
 
 ## Screenshot
 
-![screenshot](.\landing_screenshot.jpeg)
+![screenshot](https://raw.githubusercontent.com/krishna-cyber/Landig-page-tailwind/main/landing_screenshot.jpeg)
 
 ## Features
 
